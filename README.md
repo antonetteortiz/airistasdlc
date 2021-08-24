@@ -25,6 +25,8 @@ Airista SDLC, defining the cycle of development, all the task involved in planni
     - Defects are logged, tickets are issued and retested once fixed. 
     - Bug logging and retest goes on until the updated software goes live. 
     
-
+# Deployment
+    - The developed code is released and given to customer.
+    - Any issues in the production enviornment are resolved by the development team which come under maintenance. 
     
 
