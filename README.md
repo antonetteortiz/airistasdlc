@@ -9,10 +9,10 @@ Airista SDLC, defining the cycle of development, all the task involved in planni
 
 # 	Requirement Gathering and Analysis
 
-    -	During this phase development team will meet with technical service team to discuss relevant information and requirements 
+    - During this phase development team will meet with technical service team to discuss relevant information and requirements 
     regarding application enhancements and request made by customer.
     
-    -	Once requirements are gather and clearly understood, development team will begin to map out data requirements, 
+    - Once requirements are gather and clearly understood, development team will begin to map out data requirements, 
     external interface requirements and test cases. Tickets will be assigned on Jira for development and QA testing. (See documentation for ticket requirements).
 
 # 	Creating Sprint
