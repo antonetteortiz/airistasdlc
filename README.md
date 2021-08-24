@@ -8,8 +8,8 @@ Airista SDLC, defining the cycle of development, all the task involved in planni
 
 
 # Requirement Gathering and Analysis
-    - During this phase development team will meeet with technical service team to discuss relevant information and requirement for application enhancements and request.
-    - Once requirements and clearly understood, developmente team will map out data requirements, external interface requirements and test cases. 
+    - During this phase development team will meet with technical service team to discuss relevant information and requirement for application enhancements and request.
+    - Once requirements and clearly understood, development team will map out data requirements, external interface requirements and test cases. 
     - Tickets will be assigned for development and QA testing. (See documentation for ticket requirements)
 
 # Creating Sprint
@@ -18,12 +18,11 @@ Airista SDLC, defining the cycle of development, all the task involved in planni
     - Development team work in sprints to complete ticket issues.
    
 # Testing
-    - Following each sprint, developed code will be tested throughly to detect defects if any in the software. 
+    - Following each sprint, developed code will be tested thoroughly to detect defects if any in the software. 
     - Defects are logged, tickets are issued and retested once fixed. 
     - Bug logging and retest goes on until the updated software goes live. 
     
 # Deployment
     - The developed code is released and given to customer.
-    - Any issues in the production enviornment are resolved by the development team which come under maintenance. 
-    
+    - Any issues in the production environment are resolved by the development team which come under maintenance. 
 
